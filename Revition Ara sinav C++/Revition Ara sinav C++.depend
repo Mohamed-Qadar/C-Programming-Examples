@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1607276216 source:c:\users\mohamed qadar\onedrive\desktop\c programming examples\revition ara sinav c++\main.cpp
+	<iostream>
+	"kure.h"
+
+1607276063 c:\users\mohamed qadar\onedrive\desktop\c programming examples\revition ara sinav c++\include\kure.h
+	<iostream>
+
+1607271481 source:c:\users\mohamed qadar\onedrive\desktop\c programming examples\revition ara sinav c++\src\maximaum.cpp
+
+1607263388 c:\users\mohamed qadar\onedrive\desktop\c programming examples\revition ara sinav c++\include\maximaum.h
+	<iostream>
+
+1607276332 source:c:\users\mohamed qadar\onedrive\desktop\c programming examples\revition ara sinav c++\src\kure.cpp
+	<iostream>
+	"kure.h"
+
